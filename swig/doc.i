@@ -4756,7 +4756,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L46
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L35-L169
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L35-L180
 
 ";
 
@@ -4770,7 +4770,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L49
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L277-L302
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L288-L316
 
 ";
 
@@ -4783,7 +4783,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L53
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L544-L650
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L755-L861
 
 ";
 
@@ -4796,7 +4796,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L57
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L304-L308
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L318-L322
 
 ";
 
@@ -4816,7 +4816,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L66
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L396-L441
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L410-L464
 
 ";
 
@@ -4833,7 +4833,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L69
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L731-L751
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L942-L962
 
 ";
 
@@ -4847,7 +4847,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L74
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L196-L275
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L207-L286
 
 ";
 
@@ -4861,7 +4861,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L77
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L775-L777
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L986-L988
 
 ";
 
@@ -4875,7 +4875,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L80
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L779-L782
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L990-L993
 
 ";
 
@@ -4889,7 +4889,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L83
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L784-L790
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L995-L1001
 
 ";
 
@@ -4914,7 +4914,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L94
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L800-L802
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1011-L1013
 
 ";
 
@@ -4930,7 +4930,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L99
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L824-L844
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1035-L1055
 
 ";
 
@@ -4946,7 +4946,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L104
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L846-L867
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1057-L1078
 
 ";
 
@@ -4962,7 +4962,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L109
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L869-L871
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1080-L1082
 
 ";
 
@@ -4994,7 +4994,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L129
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L889-L891
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1100-L1102
 
 ";
 
@@ -5009,7 +5009,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L226
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1384-L1406
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1595-L1617
 
 ";
 
@@ -5035,7 +5035,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L121
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L873-L887
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1084-L1098
 
 ";
 
@@ -5051,7 +5051,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L134
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L516-L521
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L727-L732
 
 ";
 
@@ -5067,7 +5067,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L139
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L523-L528
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L734-L739
 
 ";
 
@@ -5083,7 +5083,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L144
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L530-L535
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L741-L746
 
 ";
 
@@ -5099,7 +5099,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L149
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L537-L542
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L748-L753
 
 ";
 
@@ -5115,7 +5115,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L166
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1729-L1753
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1940-L1964
 
 ";
 
@@ -5130,7 +5130,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L181
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1776-L1779
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1987-L1990
 
 ";
 
@@ -5146,7 +5146,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L186
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1781-L1793
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1992-L2004
 
 ";
 
@@ -5161,7 +5161,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L191
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L171-L174
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L182-L185
 
 ";
 
@@ -5176,7 +5176,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L196
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L176-L194
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L187-L205
 
 ";
 
@@ -5191,7 +5191,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L201
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1795-L1806
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2006-L2017
 
 ";
 
@@ -5207,7 +5207,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L206
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1808-L1811
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2019-L2022
 
 ";
 
@@ -5268,7 +5268,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L233
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1408-L1417
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1619-L1628
 
 ";
 
@@ -5290,7 +5290,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L239
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1814-L1905
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2025-L2116
 
 ";
 
@@ -5306,7 +5306,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L246
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1491-L1497
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1702-L1708
 
 ";
 
@@ -5320,7 +5320,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L246
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1491-L1497
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1702-L1708
 
 ";
 
@@ -5334,7 +5334,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L246
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1491-L1497
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1702-L1708
 
 ";
 
@@ -5350,7 +5350,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L251
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1684-L1689
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1895-L1900
 
 ";
 
@@ -5367,7 +5367,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L257
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1691-L1696
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1902-L1907
 
 ";
 
@@ -5383,7 +5383,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L263
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1643-L1647
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1854-L1858
 
 ";
 
@@ -5399,7 +5399,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L271
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1649-L1653
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1860-L1864
 
 ";
 
@@ -5415,7 +5415,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L279
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1655-L1659
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1866-L1870
 
 ";
 
@@ -5431,7 +5431,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L286
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1661-L1665
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1872-L1876
 
 ";
 
@@ -5447,7 +5447,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L293
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1667-L1671
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1878-L1882
 
 ";
 
@@ -5463,7 +5463,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L300
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1673-L1677
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1884-L1888
 
 ";
 
@@ -5479,7 +5479,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L307
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1679-L1682
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1890-L1893
 
 ";
 
@@ -5496,7 +5496,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L312
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1698-L1705
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1909-L1916
 
 ";
 
@@ -5510,7 +5510,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L312
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1698-L1705
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1909-L1916
 
 ";
 
@@ -5524,7 +5524,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L312
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1698-L1705
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1909-L1916
 
 ";
 
@@ -5541,7 +5541,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L320
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1707-L1712
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1918-L1923
 
 ";
 
@@ -5558,7 +5558,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L326
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1714-L1719
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1925-L1930
 
 ";
 
@@ -5574,7 +5574,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L332
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1499-L1505
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1710-L1716
 
 ";
 
@@ -5588,7 +5588,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L332
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1499-L1505
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1710-L1716
 
 ";
 
@@ -5602,7 +5602,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L332
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1499-L1505
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1710-L1716
 
 ";
 
@@ -5619,7 +5619,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L338
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1507-L1515
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1718-L1726
 
 ";
 
@@ -5633,7 +5633,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L338
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1507-L1515
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1718-L1726
 
 ";
 
@@ -5647,7 +5647,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L338
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1507-L1515
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1718-L1726
 
 ";
 
@@ -5661,7 +5661,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L342
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1722-L1727
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1933-L1938
 
 ";
 
@@ -5673,7 +5673,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L342
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1722-L1727
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1933-L1938
 
 ";
 
@@ -5685,7 +5685,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L342
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1722-L1727
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1933-L1938
 
 ";
 
@@ -5703,7 +5703,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L347
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1517-L1528
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1728-L1739
 
 ";
 
@@ -5721,7 +5721,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L356
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1530-L1540
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1741-L1751
 
 ";
 
@@ -5738,7 +5738,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L366
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1542-L1548
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1753-L1759
 
 ";
 
@@ -5756,7 +5756,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L372
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1940-L1948
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2151-L2159
 
 ";
 
@@ -5770,7 +5770,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L372
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1940-L1948
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2151-L2159
 
 ";
 
@@ -5784,7 +5784,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L372
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1940-L1948
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2151-L2159
 
 ";
 
@@ -5802,7 +5802,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L381
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1951-L1960
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2162-L2171
 
 ";
 
@@ -5816,7 +5816,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L381
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1951-L1960
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2162-L2171
 
 ";
 
@@ -5830,7 +5830,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L381
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1951-L1960
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2162-L2171
 
 ";
 
@@ -5847,7 +5847,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L390
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1963-L1968
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2174-L2179
 
 ";
 
@@ -5864,7 +5864,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L396
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1971-L1977
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2182-L2188
 
 ";
 
@@ -5878,7 +5878,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L396
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1971-L1977
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2182-L2188
 
 ";
 
@@ -5892,7 +5892,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L396
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1971-L1977
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2182-L2188
 
 ";
 
@@ -5909,7 +5909,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L404
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1980-L1986
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2191-L2197
 
 ";
 
@@ -5923,7 +5923,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L404
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1980-L1986
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2191-L2197
 
 ";
 
@@ -5937,7 +5937,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L404
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1980-L1986
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2191-L2197
 
 ";
 
@@ -5953,7 +5953,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L412
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1989-L1992
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2200-L2203
 
 ";
 
@@ -5967,7 +5967,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L412
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1989-L1992
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2200-L2203
 
 ";
 
@@ -5981,7 +5981,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L412
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1989-L1992
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2200-L2203
 
 ";
 
@@ -5997,7 +5997,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L417
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1995-L1998
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2206-L2209
 
 ";
 
@@ -6011,7 +6011,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L417
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1995-L1998
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2206-L2209
 
 ";
 
@@ -6025,7 +6025,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L417
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1995-L1998
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2206-L2209
 
 ";
 
@@ -6041,7 +6041,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L422
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2037-L2040
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2248-L2251
 
 ";
 
@@ -6055,7 +6055,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L422
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2037-L2040
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2248-L2251
 
 ";
 
@@ -6069,7 +6069,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L422
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2037-L2040
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2248-L2251
 
 ";
 
@@ -6085,7 +6085,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L427
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2043-L2046
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2254-L2257
 
 ";
 
@@ -6099,7 +6099,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L427
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2043-L2046
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2254-L2257
 
 ";
 
@@ -6113,7 +6113,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L427
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2043-L2046
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2254-L2257
 
 ";
 
@@ -6129,7 +6129,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L432
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2001-L2004
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2212-L2215
 
 ";
 
@@ -6145,7 +6145,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L442
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2013-L2016
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2224-L2227
 
 ";
 
@@ -6161,7 +6161,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L437
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2007-L2010
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2218-L2221
 
 ";
 
@@ -6177,7 +6177,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L447
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2019-L2022
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2230-L2233
 
 ";
 
@@ -6193,7 +6193,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L452
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2025-L2028
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2236-L2239
 
 ";
 
@@ -6207,7 +6207,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L452
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2025-L2028
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2236-L2239
 
 ";
 
@@ -6221,7 +6221,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L452
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2025-L2028
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2236-L2239
 
 ";
 
@@ -6237,7 +6237,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L457
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2031-L2034
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2242-L2245
 
 ";
 
@@ -6251,7 +6251,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L457
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2031-L2034
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2242-L2245
 
 ";
 
@@ -6265,7 +6265,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L457
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2031-L2034
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2242-L2245
 
 ";
 
@@ -6281,7 +6281,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L462
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2061-L2064
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2272-L2275
 
 ";
 
@@ -6295,7 +6295,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L462
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2061-L2064
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2272-L2275
 
 ";
 
@@ -6309,7 +6309,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L462
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2061-L2064
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2272-L2275
 
 ";
 
@@ -6332,7 +6332,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L469
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2067-L2070
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2278-L2281
 
 ";
 
@@ -6353,7 +6353,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L469
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2067-L2070
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2278-L2281
 
 ";
 
@@ -6374,7 +6374,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L469
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2067-L2070
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2278-L2281
 
 ";
 
@@ -6390,7 +6390,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L474
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2049-L2052
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2260-L2263
 
 ";
 
@@ -6406,7 +6406,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L480
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2055-L2058
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2266-L2269
 
 ";
 
@@ -6423,7 +6423,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L486
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2098-L2103
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2309-L2314
 
 ";
 
@@ -6439,7 +6439,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L492
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2073-L2076
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2284-L2287
 
 ";
 
@@ -6455,7 +6455,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L497
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2079-L2082
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2290-L2293
 
 ";
 
@@ -6472,7 +6472,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L502
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2085-L2089
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2296-L2300
 
 ";
 
@@ -6488,7 +6488,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L508
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2092-L2095
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2303-L2306
 
 ";
 
@@ -6502,7 +6502,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L508
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2092-L2095
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2303-L2306
 
 ";
 
@@ -6516,7 +6516,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L508
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2092-L2095
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2303-L2306
 
 ";
 
@@ -6531,7 +6531,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L514
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1550-L1561
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1761-L1772
 
 ";
 
@@ -6547,7 +6547,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L519
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1907-L1911
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2118-L2122
 
 ";
 
@@ -6563,7 +6563,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L612
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L893-L1336
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1104-L1547
 
 ";
 
@@ -6580,7 +6580,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L617
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1914-L1937
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2125-L2148
 
 ";
 
@@ -6594,7 +6594,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L622
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L652-L660
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L863-L871
 
 ";
 
@@ -6607,7 +6607,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L625
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L662-L668
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L873-L879
 
 ";
 
@@ -6623,7 +6623,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L634
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L684-L687
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L895-L898
 
 ";
 
@@ -6639,7 +6639,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L640
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L689-L692
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L900-L903
 
 ";
 
@@ -6655,7 +6655,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L646
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1430-L1437
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1641-L1648
 
 ";
 
@@ -6669,7 +6669,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L646
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1430-L1437
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1641-L1648
 
 ";
 
@@ -6683,7 +6683,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L646
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1430-L1437
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1641-L1648
 
 ";
 
@@ -6711,7 +6711,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L655
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1481-L1489
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1692-L1700
 
 ";
 
@@ -6727,7 +6727,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L660
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1459-L1465
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1670-L1676
 
 ";
 
@@ -6742,7 +6742,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L665
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1467-L1469
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1678-L1680
 
 ";
 
@@ -6757,7 +6757,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L670
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1471-L1473
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1682-L1684
 
 ";
 
@@ -6772,7 +6772,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L675
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1475-L1479
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1686-L1690
 
 ";
 
@@ -6789,7 +6789,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L680
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1564-L1576
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1775-L1787
 
 ";
 
@@ -6803,7 +6803,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L680
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1564-L1576
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1775-L1787
 
 ";
 
@@ -6817,7 +6817,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L680
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1564-L1576
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1775-L1787
 
 ";
 
@@ -6833,7 +6833,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L687
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1579-L1587
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1790-L1798
 
 ";
 
@@ -6849,7 +6849,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L693
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1590-L1598
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1801-L1809
 
 ";
 
@@ -6863,7 +6863,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L693
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1590-L1598
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1801-L1809
 
 ";
 
@@ -6877,7 +6877,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L693
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1590-L1598
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1801-L1809
 
 ";
 
@@ -6893,7 +6893,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L699
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1601-L1609
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1812-L1820
 
 ";
 
@@ -6907,7 +6907,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L699
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1601-L1609
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1812-L1820
 
 ";
 
@@ -6921,7 +6921,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L699
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1601-L1609
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1812-L1820
 
 ";
 
@@ -6937,7 +6937,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L705
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1338-L1343
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1549-L1554
 
 ";
 
@@ -6954,7 +6954,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L710
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1345-L1356
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1556-L1567
 
 ";
 
@@ -6970,7 +6970,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L722
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1611-L1618
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L1822-L1829
 
 ";
 
@@ -7002,7 +7002,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L732
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L694-L714
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L905-L925
 
 ";
 
@@ -7023,7 +7023,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L738
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2106-L2109
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2317-L2320
 
 ";
 
@@ -7040,7 +7040,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L743
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2112-L2117
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2323-L2328
 
 ";
 
@@ -7056,7 +7056,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.hpp#L759
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2119-L2127
+https://github.com/casadi/casadi/blob/develop/casadi/core/code_generator.cpp#L2330-L2338
 
 ";
 
@@ -20531,7 +20531,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L233
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1565-L1590
+https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1567-L1592
 
 ";
 
@@ -20590,7 +20590,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L235
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1534-L1536
+https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1536-L1538
 
 ";
 
@@ -20660,7 +20660,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L236
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1539-L1541
+https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1541-L1543
 
 ";
 
@@ -20731,7 +20731,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L237
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1544-L1552
+https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1546-L1554
 
 ";
 
@@ -20826,7 +20826,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L239
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1555-L1562
+https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1557-L1564
 
 ";
 
@@ -30926,7 +30926,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L233
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1565-L1590
+https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1567-L1592
 
 ";
 
@@ -30940,7 +30940,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L235
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1534-L1536
+https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1536-L1538
 
 ";
 
@@ -30954,7 +30954,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L236
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1539-L1541
+https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1541-L1543
 
 ";
 
@@ -30969,7 +30969,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L237
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1544-L1552
+https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1546-L1554
 
 ";
 
@@ -30984,7 +30984,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L239
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1555-L1562
+https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1557-L1564
 
 ";
 
@@ -34815,7 +34815,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L233
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1565-L1590
+https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1567-L1592
 
 ";
 
@@ -34829,7 +34829,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L235
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1534-L1536
+https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1536-L1538
 
 ";
 
@@ -34843,7 +34843,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L236
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1539-L1541
+https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1541-L1543
 
 ";
 
@@ -34857,7 +34857,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L237
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1544-L1552
+https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1546-L1554
 
 ";
 
@@ -34871,7 +34871,7 @@ Doc source:
 https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L239
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1555-L1562
+https://github.com/casadi/casadi/blob/develop/casadi/core/generic_matrix.hpp#L1557-L1564
 
 ";
 
@@ -41484,10 +41484,10 @@ horzcat(horzsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3e
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L95
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L97
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L95-L97
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L97-L99
 
 ";
 
@@ -41503,10 +41503,10 @@ horzcat(horzsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3e
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L95
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L97
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L95-L97
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L97-L99
 
 ";
 
@@ -41522,10 +41522,10 @@ horzcat(horzsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3e
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L95
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L97
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L95-L97
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L97-L99
 
 ";
 
@@ -41538,10 +41538,10 @@ Concatenate horizontally, two matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4a
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L435
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L472
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L435-L437
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L472-L474
 
 ";
 
@@ -41552,10 +41552,10 @@ Concatenate horizontally, two matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4a
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L435
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L472
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L435-L437
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L472-L474
 
 ";
 
@@ -41566,10 +41566,10 @@ Concatenate horizontally, two matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4a
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L435
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L472
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L435-L437
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L472-L474
 
 ";
 
@@ -41582,10 +41582,10 @@ Concatenate horizontally, three matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4b
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L442
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L479
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L442-L444
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L479-L481
 
 ";
 
@@ -41596,10 +41596,10 @@ Concatenate horizontally, three matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4b
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L442
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L479
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L442-L444
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L479-L481
 
 ";
 
@@ -41610,10 +41610,10 @@ Concatenate horizontally, three matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4b
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L442
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L479
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L442-L444
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L479-L481
 
 ";
 
@@ -41626,10 +41626,10 @@ Concatenate horizontally, four matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4c
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L449
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L486
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L449-L452
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L486-L489
 
 ";
 
@@ -41640,10 +41640,10 @@ Concatenate horizontally, four matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4c
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L449
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L486
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L449-L452
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L486-L489
 
 ";
 
@@ -41654,10 +41654,10 @@ Concatenate horizontally, four matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4c
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L449
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L486
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L449-L452
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L486-L489
 
 ";
 
@@ -41671,10 +41671,10 @@ Concatenate horizontally, five matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4d
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L457
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L494
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L457-L460
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L494-L497
 
 ";
 
@@ -41685,10 +41685,10 @@ Concatenate horizontally, five matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4d
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L457
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L494
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L457-L460
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L494-L497
 
 ";
 
@@ -41699,10 +41699,10 @@ Concatenate horizontally, five matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4d
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L457
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L494
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L457-L460
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L494-L497
 
 ";
 
@@ -41716,10 +41716,10 @@ Concatenate horizontally, six matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4e
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L465
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L502
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L465-L468
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L502-L505
 
 ";
 
@@ -41730,10 +41730,10 @@ Concatenate horizontally, six matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4e
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L465
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L502
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L465-L468
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L502-L505
 
 ";
 
@@ -41744,10 +41744,10 @@ Concatenate horizontally, six matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4e
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L465
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L502
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L465-L468
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L502-L505
 
 ";
 
@@ -41765,10 +41765,10 @@ vertcat(vertsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3f
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L106
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L108
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L106-L108
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L108-L110
 
 ";
 
@@ -41784,10 +41784,10 @@ vertcat(vertsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3f
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L106
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L108
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L106-L108
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L108-L110
 
 ";
 
@@ -41803,10 +41803,10 @@ vertcat(vertsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3f
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L106
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L108
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L106-L108
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L108-L110
 
 ";
 
@@ -41819,10 +41819,10 @@ Concatenate vertically, two matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4f
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L473
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L510
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L473-L475
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L510-L512
 
 ";
 
@@ -41833,10 +41833,10 @@ Concatenate vertically, two matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4f
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L473
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L510
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L473-L475
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L510-L512
 
 ";
 
@@ -41847,10 +41847,10 @@ Concatenate vertically, two matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4f
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L473
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L510
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L473-L475
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L510-L512
 
 ";
 
@@ -41863,10 +41863,10 @@ Concatenate vertically, three matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4g
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L480
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L517
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L480-L482
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L517-L519
 
 ";
 
@@ -41877,10 +41877,10 @@ Concatenate vertically, three matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4g
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L480
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L517
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L480-L482
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L517-L519
 
 ";
 
@@ -41891,10 +41891,10 @@ Concatenate vertically, three matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4g
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L480
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L517
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L480-L482
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L517-L519
 
 ";
 
@@ -41907,10 +41907,10 @@ Concatenate vertically, four matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4h
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L487
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L524
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L487-L490
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L524-L527
 
 ";
 
@@ -41921,10 +41921,10 @@ Concatenate vertically, four matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4h
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L487
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L524
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L487-L490
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L524-L527
 
 ";
 
@@ -41935,10 +41935,10 @@ Concatenate vertically, four matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4h
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L487
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L524
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L487-L490
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L524-L527
 
 ";
 
@@ -41952,10 +41952,10 @@ Concatenate vertically, five matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4i
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L495
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L532
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L495-L498
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L532-L535
 
 ";
 
@@ -41966,10 +41966,10 @@ Concatenate vertically, five matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4i
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L495
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L532
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L495-L498
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L532-L535
 
 ";
 
@@ -41980,10 +41980,10 @@ Concatenate vertically, five matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4i
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L495
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L532
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L495-L498
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L532-L535
 
 ";
 
@@ -41997,10 +41997,10 @@ Concatenate vertically, six matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4j
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L503
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L540
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L503-L506
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L540-L543
 
 ";
 
@@ -42011,10 +42011,10 @@ Concatenate vertically, six matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4j
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L503
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L540
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L503-L506
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L540-L543
 
 ";
 
@@ -42025,10 +42025,10 @@ Concatenate vertically, six matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4j
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L503
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L540
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L503-L506
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L540-L543
 
 ";
 
@@ -42051,10 +42051,10 @@ horzcat(horzsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3g
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L119
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L121
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L119-L121
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L121-L123
 
 ";
 
@@ -42075,10 +42075,10 @@ horzcat(horzsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3g
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L119
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L121
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L119-L121
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L121-L123
 
 ";
 
@@ -42099,10 +42099,10 @@ horzcat(horzsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3g
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L119
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L121
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L119-L121
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L121-L123
 
 ";
 
@@ -42116,17 +42116,19 @@ Parameters:
 -----------
 
 incr: 
-Size of each group of columns
+Size (width) of each group of columns
 
 horzcat(horzsplit(x, ...)) = x
+
+\\\\seealso horzsplit_n
 
 Extra doc: https://github.com/casadi/casadi/wiki/L_3h
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L130
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L134
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L130-L132
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L134-L136
 
 ";
 
@@ -42138,17 +42140,19 @@ Parameters:
 -----------
 
 incr: 
-Size of each group of columns
+Size (width) of each group of columns
 
 horzcat(horzsplit(x, ...)) = x
+
+\\\\seealso horzsplit_n
 
 Extra doc: https://github.com/casadi/casadi/wiki/L_3h
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L130
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L134
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L130-L132
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L134-L136
 
 ";
 
@@ -42160,17 +42164,99 @@ Parameters:
 -----------
 
 incr: 
-Size of each group of columns
+Size (width) of each group of columns
 
 horzcat(horzsplit(x, ...)) = x
+
+\\\\seealso horzsplit_n
 
 Extra doc: https://github.com/casadi/casadi/wiki/L_3h
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L130
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L134
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L130-L132
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L134-L136
+
+";
+
+%feature("docstring")  casadi::SparsityInterfaceCommon::horzsplit_n(const 
+MatType &x, casadi_int n) "
+
+[INTERNAL] 
+split horizontally, retaining fixed-sized groups of columns
+
+Parameters:
+-----------
+
+n: 
+Number of groups of columns
+
+Will error when the number of columns is not a multiple of n
+
+horzcat(horzsplit(x, ...)) = x
+
+\\\\seealso horzsplit
+
+Extra doc: https://github.com/casadi/casadi/wiki/L_277
+
+Doc source: 
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L149
+
+Implementation: 
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L149-L151
+
+";
+
+%feature("docstring") casadi::casadi_horzsplit_n "
+
+split horizontally, retaining fixed-sized groups of columns
+
+Parameters:
+-----------
+
+n: 
+Number of groups of columns
+
+Will error when the number of columns is not a multiple of n
+
+horzcat(horzsplit(x, ...)) = x
+
+\\\\seealso horzsplit
+
+Extra doc: https://github.com/casadi/casadi/wiki/L_277
+
+Doc source: 
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L149
+
+Implementation: 
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L149-L151
+
+";
+
+%feature("docstring")  casadi::SparsityInterfaceCommon::casadi_horzsplit_n "
+
+split horizontally, retaining fixed-sized groups of columns
+
+Parameters:
+-----------
+
+n: 
+Number of groups of columns
+
+Will error when the number of columns is not a multiple of n
+
+horzcat(horzsplit(x, ...)) = x
+
+\\\\seealso horzsplit
+
+Extra doc: https://github.com/casadi/casadi/wiki/L_277
+
+Doc source: 
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L149
+
+Implementation: 
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L149-L151
 
 ";
 
@@ -42193,10 +42279,10 @@ vertcat(vertsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3i
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L143
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L162
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L143-L145
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L162-L164
 
 ";
 
@@ -42217,10 +42303,10 @@ vertcat(vertsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3i
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L143
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L162
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L143-L145
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L162-L164
 
 ";
 
@@ -42241,10 +42327,10 @@ vertcat(vertsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3i
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L143
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L162
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L143-L145
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L162-L164
 
 ";
 
@@ -42295,13 +42381,15 @@ will have a size smaller than  incr.
 
 
 
+\\\\seealso vertsplit_n
+
 Extra doc: https://github.com/casadi/casadi/wiki/L_3k
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L182
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L204
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L182-L184
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L204-L206
 
 ";
 
@@ -42350,13 +42438,15 @@ will have a size smaller than  incr.
 
 
 
+\\\\seealso vertsplit_n
+
 Extra doc: https://github.com/casadi/casadi/wiki/L_3k
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L182
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L204
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L182-L184
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L204-L206
 
 ";
 
@@ -42405,13 +42495,15 @@ will have a size smaller than  incr.
 
 
 
+\\\\seealso vertsplit_n
+
 Extra doc: https://github.com/casadi/casadi/wiki/L_3k
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L182
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L204
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L182-L184
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L204-L206
 
 ";
 
@@ -42425,10 +42517,10 @@ matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_3j
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L150
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L169
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L150-L152
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L169-L171
 
 ";
 
@@ -42439,10 +42531,10 @@ Helper function, get offsets corresponding to a vector of matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_3j
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L150
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L169
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L150-L152
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L169-L171
 
 ";
 
@@ -42453,10 +42545,90 @@ Helper function, get offsets corresponding to a vector of matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_3j
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L150
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L169
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L150-L152
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L169-L171
+
+";
+
+%feature("docstring")  casadi::SparsityInterfaceCommon::vertsplit_n(const 
+MatType &x, casadi_int n) "
+
+[INTERNAL] 
+split vertically, retaining fixed-sized groups of rows
+
+Parameters:
+-----------
+
+n: 
+Number of groups of rows
+
+Will error when the number of rows is not a multiple of n
+
+vertcat(vertsplit(x, ...)) = x
+
+\\\\seealso vertsplit
+
+Extra doc: https://github.com/casadi/casadi/wiki/L_278
+
+Doc source: 
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L219
+
+Implementation: 
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L219-L221
+
+";
+
+%feature("docstring") casadi::casadi_vertsplit_n "
+
+split vertically, retaining fixed-sized groups of rows
+
+Parameters:
+-----------
+
+n: 
+Number of groups of rows
+
+Will error when the number of rows is not a multiple of n
+
+vertcat(vertsplit(x, ...)) = x
+
+\\\\seealso vertsplit
+
+Extra doc: https://github.com/casadi/casadi/wiki/L_278
+
+Doc source: 
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L219
+
+Implementation: 
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L219-L221
+
+";
+
+%feature("docstring")  casadi::SparsityInterfaceCommon::casadi_vertsplit_n "
+
+split vertically, retaining fixed-sized groups of rows
+
+Parameters:
+-----------
+
+n: 
+Number of groups of rows
+
+Will error when the number of rows is not a multiple of n
+
+vertcat(vertsplit(x, ...)) = x
+
+\\\\seealso vertsplit
+
+Extra doc: https://github.com/casadi/casadi/wiki/L_278
+
+Doc source: 
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L219
+
+Implementation: 
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L219-L221
 
 ";
 
@@ -42469,10 +42641,10 @@ Construct a matrix from a list of list of blocks.
 Extra doc: https://github.com/casadi/casadi/wiki/L_3l
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L189
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L226
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L189-L191
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L226-L228
 
 ";
 
@@ -42483,10 +42655,10 @@ Construct a matrix from a list of list of blocks.
 Extra doc: https://github.com/casadi/casadi/wiki/L_3l
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L189
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L226
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L189-L191
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L226-L228
 
 ";
 
@@ -42497,10 +42669,10 @@ Construct a matrix from a list of list of blocks.
 Extra doc: https://github.com/casadi/casadi/wiki/L_3l
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L189
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L226
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L189-L191
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L226-L228
 
 ";
 
@@ -42513,10 +42685,10 @@ Construct a matrix from 4 blocks.
 Extra doc: https://github.com/casadi/casadi/wiki/L_3m
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L197
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L234
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L197-L199
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L234-L236
 
 ";
 
@@ -42527,10 +42699,10 @@ Construct a matrix from 4 blocks.
 Extra doc: https://github.com/casadi/casadi/wiki/L_3m
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L197
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L234
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L197-L199
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L234-L236
 
 ";
 
@@ -42541,10 +42713,10 @@ Construct a matrix from 4 blocks.
 Extra doc: https://github.com/casadi/casadi/wiki/L_3m
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L197
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L234
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L197-L199
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L234-L236
 
 ";
 
@@ -42569,10 +42741,10 @@ blockcat(blocksplit(x,..., ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3n
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L210
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L247
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L210-L214
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L247-L251
 
 ";
 
@@ -42594,10 +42766,10 @@ blockcat(blocksplit(x,..., ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3n
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L210
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L247
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L210-L214
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L247-L251
 
 ";
 
@@ -42619,10 +42791,10 @@ blockcat(blocksplit(x,..., ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3n
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L210
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L247
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L210-L214
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L247-L251
 
 ";
 
@@ -42646,10 +42818,10 @@ blockcat(blocksplit(x,..., ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3o
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L225
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L262
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L225-L227
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L262-L264
 
 ";
 
@@ -42671,10 +42843,10 @@ blockcat(blocksplit(x,..., ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3o
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L225
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L262
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L225-L227
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L262-L264
 
 ";
 
@@ -42696,10 +42868,10 @@ blockcat(blocksplit(x,..., ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3o
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L225
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L262
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L225-L227
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L262-L264
 
 ";
 
@@ -42712,10 +42884,10 @@ Construct a matrix with given block on the diagonal.
 Extra doc: https://github.com/casadi/casadi/wiki/L_3p
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L232
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L269
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L232-L234
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L269-L271
 
 ";
 
@@ -42726,10 +42898,10 @@ Construct a matrix with given block on the diagonal.
 Extra doc: https://github.com/casadi/casadi/wiki/L_3p
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L232
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L269
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L232-L234
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L269-L271
 
 ";
 
@@ -42740,10 +42912,10 @@ Construct a matrix with given block on the diagonal.
 Extra doc: https://github.com/casadi/casadi/wiki/L_3p
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L232
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L269
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L232-L234
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L269-L271
 
 ";
 
@@ -42756,10 +42928,10 @@ Concatenate along diagonal, two matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4k
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L511
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L548
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L511-L513
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L548-L550
 
 ";
 
@@ -42770,10 +42942,10 @@ Concatenate along diagonal, two matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4k
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L511
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L548
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L511-L513
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L548-L550
 
 ";
 
@@ -42784,10 +42956,10 @@ Concatenate along diagonal, two matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4k
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L511
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L548
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L511-L513
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L548-L550
 
 ";
 
@@ -42800,10 +42972,10 @@ Concatenate along diagonal, three matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4l
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L518
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L555
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L518-L520
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L555-L557
 
 ";
 
@@ -42814,10 +42986,10 @@ Concatenate along diagonal, three matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4l
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L518
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L555
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L518-L520
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L555-L557
 
 ";
 
@@ -42828,10 +43000,10 @@ Concatenate along diagonal, three matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4l
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L518
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L555
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L518-L520
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L555-L557
 
 ";
 
@@ -42844,10 +43016,10 @@ Concatenate along diagonal, four matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4m
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L525
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L562
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L525-L528
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L562-L565
 
 ";
 
@@ -42858,10 +43030,10 @@ Concatenate along diagonal, four matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4m
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L525
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L562
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L525-L528
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L562-L565
 
 ";
 
@@ -42872,10 +43044,10 @@ Concatenate along diagonal, four matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4m
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L525
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L562
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L525-L528
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L562-L565
 
 ";
 
@@ -42889,10 +43061,10 @@ Concatenate along diagonal, five matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4n
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L533
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L570
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L533-L536
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L570-L573
 
 ";
 
@@ -42903,10 +43075,10 @@ Concatenate along diagonal, five matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4n
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L533
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L570
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L533-L536
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L570-L573
 
 ";
 
@@ -42917,10 +43089,10 @@ Concatenate along diagonal, five matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4n
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L533
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L570
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L533-L536
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L570-L573
 
 ";
 
@@ -42934,10 +43106,10 @@ Concatenate along diagonal, six matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4o
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L541
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L578
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L541-L544
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L578-L581
 
 ";
 
@@ -42948,10 +43120,10 @@ Concatenate along diagonal, six matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4o
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L541
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L578
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L541-L544
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L578-L581
 
 ";
 
@@ -42962,10 +43134,10 @@ Concatenate along diagonal, six matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4o
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L541
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L578
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L541-L544
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L578-L581
 
 ";
 
@@ -42994,10 +43166,10 @@ diagcat(diagsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3q
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L247
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L284
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L247-L251
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L284-L288
 
 ";
 
@@ -43023,10 +43195,10 @@ diagcat(diagsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3q
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L247
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L284
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L247-L251
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L284-L288
 
 ";
 
@@ -43052,10 +43224,10 @@ diagcat(diagsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3q
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L247
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L284
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L247-L251
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L284-L288
 
 ";
 
@@ -43078,10 +43250,10 @@ diagcat(diagsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3r
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L262
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L299
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L262-L264
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L299-L301
 
 ";
 
@@ -43102,10 +43274,10 @@ diagcat(diagsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3r
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L262
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L299
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L262-L264
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L299-L301
 
 ";
 
@@ -43126,10 +43298,10 @@ diagcat(diagsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3r
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L262
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L299
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L262-L264
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L299-L301
 
 ";
 
@@ -43150,10 +43322,10 @@ diagsplit(diagsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3s
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L274
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L311
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L274-L276
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L311-L313
 
 ";
 
@@ -43172,10 +43344,10 @@ diagsplit(diagsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3s
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L274
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L311
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L274-L276
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L311-L313
 
 ";
 
@@ -43194,10 +43366,10 @@ diagsplit(diagsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3s
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L274
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L311
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L274-L276
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L311-L313
 
 ";
 
@@ -43221,10 +43393,10 @@ diagsplit(diagsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3t
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L287
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L324
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L287-L289
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L324-L326
 
 ";
 
@@ -43246,10 +43418,10 @@ diagsplit(diagsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3t
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L287
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L324
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L287-L289
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L324-L326
 
 ";
 
@@ -43271,10 +43443,10 @@ diagsplit(diagsplit(x, ...)) = x
 Extra doc: https://github.com/casadi/casadi/wiki/L_3t
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L287
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L324
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L287-L289
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L324-L326
 
 ";
 
@@ -43287,10 +43459,10 @@ concatenate vertically while vectorizing all arguments with vec
 Extra doc: https://github.com/casadi/casadi/wiki/L_3u
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L294
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L331
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L294-L296
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L331-L333
 
 ";
 
@@ -43301,10 +43473,10 @@ concatenate vertically while vectorizing all arguments with vec
 Extra doc: https://github.com/casadi/casadi/wiki/L_3u
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L294
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L331
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L294-L296
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L331-L333
 
 ";
 
@@ -43315,10 +43487,10 @@ concatenate vertically while vectorizing all arguments with vec
 Extra doc: https://github.com/casadi/casadi/wiki/L_3u
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L294
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L331
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L294-L296
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L331-L333
 
 ";
 
@@ -43331,10 +43503,10 @@ https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp
 Extra doc: https://github.com/casadi/casadi/wiki/L_3v
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L301
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L338
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L301-L303
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L338-L340
 
 ";
 
@@ -43345,10 +43517,10 @@ Matrix product of two matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_3v
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L301
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L338
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L301-L303
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L338-L340
 
 ";
 
@@ -43359,10 +43531,10 @@ Matrix product of two matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_3v
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L301
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L338
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L301-L303
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L338-L340
 
 ";
 
@@ -43375,10 +43547,10 @@ std::vector< MatType > &args) "
 Extra doc: https://github.com/casadi/casadi/wiki/L_3w
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L308
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L345
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L308-L310
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L345-L347
 
 ";
 
@@ -43389,10 +43561,10 @@ Matrix product of n matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_3w
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L308
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L345
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L308-L310
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L345-L347
 
 ";
 
@@ -43403,10 +43575,10 @@ Matrix product of n matrices.
 Extra doc: https://github.com/casadi/casadi/wiki/L_3w
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L308
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L345
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L308-L310
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L345-L347
 
 ";
 
@@ -43427,10 +43599,10 @@ z+mtimes(x,y).project(z.sparsity()).
 Extra doc: https://github.com/casadi/casadi/wiki/L_3x
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L321
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L358
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L321-L323
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L358-L360
 
 ";
 
@@ -43449,10 +43621,10 @@ z+mtimes(x,y).project(z.sparsity()).
 Extra doc: https://github.com/casadi/casadi/wiki/L_3x
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L321
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L358
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L321-L323
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L358-L360
 
 ";
 
@@ -43471,10 +43643,10 @@ z+mtimes(x,y).project(z.sparsity()).
 Extra doc: https://github.com/casadi/casadi/wiki/L_3x
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L321
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L358
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L321-L323
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L358-L360
 
 ";
 
@@ -43487,10 +43659,10 @@ Transpose.
 Extra doc: https://github.com/casadi/casadi/wiki/L_3y
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L328
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L365
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L328-L330
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L365-L367
 
 ";
 
@@ -43501,10 +43673,10 @@ Transpose.
 Extra doc: https://github.com/casadi/casadi/wiki/L_3y
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L328
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L365
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L328-L330
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L365-L367
 
 ";
 
@@ -43515,10 +43687,10 @@ Transpose.
 Extra doc: https://github.com/casadi/casadi/wiki/L_3y
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L328
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L365
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L328-L330
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L365-L367
 
 ";
 
@@ -43545,10 +43717,10 @@ d
  Extra doc: https://github.com/casadi/casadi/wiki/L_3z
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L349
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L386
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L349-L351
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L386-L388
 
 ";
 
@@ -43573,10 +43745,10 @@ d
  Extra doc: https://github.com/casadi/casadi/wiki/L_3z
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L349
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L386
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L349-L351
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L386-L388
 
 ";
 
@@ -43601,10 +43773,10 @@ d
  Extra doc: https://github.com/casadi/casadi/wiki/L_3z
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L349
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L386
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L349-L351
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L386-L388
 
 ";
 
@@ -43617,10 +43789,10 @@ Returns a reshaped version of the matrix.
 Extra doc: https://github.com/casadi/casadi/wiki/L_40
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L356
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L393
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L356-L358
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L393-L395
 
 ";
 
@@ -43631,10 +43803,10 @@ Returns a reshaped version of the matrix.
 Extra doc: https://github.com/casadi/casadi/wiki/L_40
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L356
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L393
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L356-L358
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L393-L395
 
 ";
 
@@ -43645,10 +43817,10 @@ Returns a reshaped version of the matrix.
 Extra doc: https://github.com/casadi/casadi/wiki/L_40
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L356
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L393
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L356-L358
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L393-L395
 
 ";
 
@@ -43662,10 +43834,10 @@ vector.
 Extra doc: https://github.com/casadi/casadi/wiki/L_41
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L363
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L400
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L363-L365
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L400-L402
 
 ";
 
@@ -43676,10 +43848,10 @@ Returns a reshaped version of the matrix, dimensions as a vector.
 Extra doc: https://github.com/casadi/casadi/wiki/L_41
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L363
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L400
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L363-L365
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L400-L402
 
 ";
 
@@ -43690,10 +43862,10 @@ Returns a reshaped version of the matrix, dimensions as a vector.
 Extra doc: https://github.com/casadi/casadi/wiki/L_41
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L363
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L400
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L363-L365
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L400-L402
 
 ";
 
@@ -43706,10 +43878,10 @@ Reshape the matrix.
 Extra doc: https://github.com/casadi/casadi/wiki/L_42
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L370
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L407
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L370-L372
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L407-L409
 
 ";
 
@@ -43720,10 +43892,10 @@ Reshape the matrix.
 Extra doc: https://github.com/casadi/casadi/wiki/L_42
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L370
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L407
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L370-L372
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L407-L409
 
 ";
 
@@ -43734,10 +43906,10 @@ Reshape the matrix.
 Extra doc: https://github.com/casadi/casadi/wiki/L_42
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L370
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L407
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L370-L372
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L407-L409
 
 ";
 
@@ -43750,10 +43922,10 @@ Cast matrix nonzeros to different Sparsity.
 Extra doc: https://github.com/casadi/casadi/wiki/L_24z
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L377
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L414
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L377-L379
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L414-L416
 
 ";
 
@@ -43764,10 +43936,10 @@ Cast matrix nonzeros to different Sparsity.
 Extra doc: https://github.com/casadi/casadi/wiki/L_24z
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L377
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L414
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L377-L379
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L414-L416
 
 ";
 
@@ -43779,10 +43951,10 @@ Cast matrix nonzeros to different Sparsity.
 Extra doc: https://github.com/casadi/casadi/wiki/L_24z
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L377
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L414
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L377-L379
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L414-L416
 
 ";
 
@@ -43795,10 +43967,10 @@ Obtain the structural rank of a sparsity-pattern.
 Extra doc: https://github.com/casadi/casadi/wiki/L_43
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L384
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L421
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L384-L386
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L421-L423
 
 ";
 
@@ -43811,10 +43983,10 @@ MatType &x, const MatType &y) "
 Extra doc: https://github.com/casadi/casadi/wiki/L_44
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L391
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L428
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L391-L393
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L428-L430
 
 ";
 
@@ -43827,10 +43999,10 @@ Get the upper triangular part of a matrix.
 Extra doc: https://github.com/casadi/casadi/wiki/L_45
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L398
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L435
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L398-L400
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L435-L437
 
 ";
 
@@ -43841,10 +44013,10 @@ Get the upper triangular part of a matrix.
 Extra doc: https://github.com/casadi/casadi/wiki/L_45
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L398
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L435
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L398-L400
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L435-L437
 
 ";
 
@@ -43855,10 +44027,10 @@ Get the upper triangular part of a matrix.
 Extra doc: https://github.com/casadi/casadi/wiki/L_45
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L398
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L435
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L398-L400
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L435-L437
 
 ";
 
@@ -43871,10 +44043,10 @@ Get the lower triangular part of a matrix.
 Extra doc: https://github.com/casadi/casadi/wiki/L_46
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L405
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L442
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L405-L407
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L442-L444
 
 ";
 
@@ -43885,10 +44057,10 @@ Get the lower triangular part of a matrix.
 Extra doc: https://github.com/casadi/casadi/wiki/L_46
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L405
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L442
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L405-L407
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L442-L444
 
 ";
 
@@ -43899,10 +44071,10 @@ Get the lower triangular part of a matrix.
 Extra doc: https://github.com/casadi/casadi/wiki/L_46
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L405
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L442
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L405-L407
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L442-L444
 
 ";
 
@@ -43917,10 +44089,10 @@ Creates a block matrix in which each element (i, j) is a_ij*b
 Extra doc: https://github.com/casadi/casadi/wiki/L_47
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L414
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L451
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L414-L416
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L451-L453
 
 ";
 
@@ -43933,10 +44105,10 @@ Creates a block matrix in which each element (i, j) is a_ij*b
 Extra doc: https://github.com/casadi/casadi/wiki/L_47
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L414
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L451
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L414-L416
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L451-L453
 
 ";
 
@@ -43949,10 +44121,10 @@ Creates a block matrix in which each element (i, j) is a_ij*b
 Extra doc: https://github.com/casadi/casadi/wiki/L_47
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L414
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L451
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L414-L416
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L451-L453
 
 ";
 
@@ -43965,10 +44137,10 @@ Repeat matrix A n times vertically and m times horizontally.
 Extra doc: https://github.com/casadi/casadi/wiki/L_48
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L421
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L458
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L421-L423
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L458-L460
 
 ";
 
@@ -43979,10 +44151,10 @@ Repeat matrix A n times vertically and m times horizontally.
 Extra doc: https://github.com/casadi/casadi/wiki/L_48
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L421
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L458
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L421-L423
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L458-L460
 
 ";
 
@@ -43993,10 +44165,10 @@ Repeat matrix A n times vertically and m times horizontally.
 Extra doc: https://github.com/casadi/casadi/wiki/L_48
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L421
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L458
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L421-L423
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L458-L460
 
 ";
 
@@ -44009,10 +44181,10 @@ Repeat matrix A n times vertically and m times horizontally.
 Extra doc: https://github.com/casadi/casadi/wiki/L_49
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L428
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L465
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L428-L430
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L465-L467
 
 ";
 
@@ -44023,10 +44195,10 @@ Repeat matrix A n times vertically and m times horizontally.
 Extra doc: https://github.com/casadi/casadi/wiki/L_49
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L428
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L465
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L428-L430
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L465-L467
 
 ";
 
@@ -44037,10 +44209,10 @@ Repeat matrix A n times vertically and m times horizontally.
 Extra doc: https://github.com/casadi/casadi/wiki/L_49
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L428
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L465
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L428-L430
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L465-L467
 
 ";
 
@@ -44053,10 +44225,10 @@ Return a row-wise summation of elements.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4p
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L549
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L586
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L549-L549
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L586-L586
 
 ";
 
@@ -44067,10 +44239,10 @@ Return a row-wise summation of elements.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4p
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L549
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L586
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L549-L549
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L586-L586
 
 ";
 
@@ -44081,10 +44253,10 @@ Return a row-wise summation of elements.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4p
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L549
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L586
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L549-L549
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L586-L586
 
 ";
 
@@ -44097,10 +44269,10 @@ Return a column-wise summation of elements.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4q
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L554
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L591
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L554-L554
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L591-L591
 
 ";
 
@@ -44111,10 +44283,10 @@ Return a column-wise summation of elements.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4q
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L554
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L591
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L554-L554
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L591-L591
 
 ";
 
@@ -44125,10 +44297,10 @@ Return a column-wise summation of elements.
 Extra doc: https://github.com/casadi/casadi/wiki/L_4q
 
 Doc source: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L554
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L591
 
 Implementation: 
-https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L554-L554
+https://github.com/casadi/casadi/blob/develop/casadi/core/sparsity_interface.hpp#L591-L591
 
 ";
 
