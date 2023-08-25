@@ -41,6 +41,7 @@
 #include "conic_impl.hpp"
 #include "integrator_impl.hpp"
 #include "external_impl.hpp"
+#include "fmu_function.hpp"
 
 #include <cctype>
 #include <typeinfo>
@@ -85,7 +86,7 @@ namespace casadi {
     jit_serialize_ = "source";
     jit_base_name_ = "jit_tmp";
     jit_temp_suffix_ = true;
-    compiler_plugin_ = "clang";
+    compiler_plugin_ = CASADI_STR(CASADI_DEFAULT_COMPILER_PLUGIN);
 
     eval_ = nullptr;
     checkout_ = nullptr;
@@ -4026,6 +4027,7 @@ namespace casadi {
     {"Integrator", Integrator::deserialize},
     {"External", External::deserialize},
     {"Conic", Conic::deserialize},
+    {"FmuFunction", FmuFunction::deserialize},
   };
 
 } // namespace casadi

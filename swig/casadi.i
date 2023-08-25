@@ -2682,7 +2682,7 @@ class NZproxy:
     if "vectorized" in name:
         name = name[:-len(" (vectorized)")]
 
-    conversion = {"multiply": "mul", "divide": "div", "true_divide": "div", "subtract":"sub","power":"pow","greater_equal":"ge","less_equal": "le", "less": "lt", "greater": "gt"}
+    conversion = {"multiply": "mul", "divide": "div", "true_divide": "div", "subtract":"sub","power":"pow","greater_equal":"ge","less_equal": "le", "less": "lt", "greater": "gt", "equal": "eq", "not_equal": "ne"}
     if name in conversion:
       name = conversion[name]
     if len(context[1])==2 and context[1][1] is self and not(context[1][0] is self):
@@ -2694,7 +2694,7 @@ class NZproxy:
     return fun(*args[1:])
 
   def __array_ufunc__(self, ufunc, method, *inputs, **kwargs):
-    conversion = {"multiply": "mul", "divide": "div", "true_divide": "div", "subtract":"sub","power":"pow","greater_equal":"ge","less_equal": "le", "less": "lt", "greater": "gt"}
+    conversion = {"multiply": "mul", "divide": "div", "true_divide": "div", "subtract":"sub","power":"pow","greater_equal":"ge","less_equal": "le", "less": "lt", "greater": "gt", "equal": "eq", "not_equal": "ne"}
     name = ufunc.__name__
     inputs = list(inputs)
     if len(inputs)==3:
@@ -2714,7 +2714,13 @@ class NZproxy:
       assert method=="__call__"
       fun=getattr(self, name)
       return fun(*inputs[1:])
-    except:
+    except Exception as e:
+      if "Dimension mismatch" in str(e):
+        import sys
+        if sys.version_info[0] < 3:
+            raise RuntimeError(str(e))
+        else:
+            raise e
       # Fall back to numpy conversion
       new_inputs = list(inputs)
       try:
